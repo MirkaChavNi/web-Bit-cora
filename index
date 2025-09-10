@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="es"> 
+    <head> 
+   <title>Mirka Design</title> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+        </script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> 
+        <link rel="stylesheet" href="animate.css">
+        <link rel="stylesheet" href="main.css">
+        <link rel="shorcut icon" href="pendiente">
+ <!-- pendiente generar faviconcon el logotipo -->
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    </head>
+    <body> 
+        
+        <section class="text-center">
+        <img src= "icon/milogo%20(1).png" class="animated headShake"> 
+        <h1 class="font-size-big">MIRKA Chavira</h1>
+        <h3 class="font-subtitle">Graphic Design</h3> 
+        </section>
+        
+        <section>
+            <nav> 
+            <a> </a>
+            <a> </a>
+            <a> </a>
+            </nav>
+        </section>
+    </body>
+
+</html>
