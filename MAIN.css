@@ -1,0 +1,74 @@
+footer{
+    color: black;
+    background-color: #EFCB8D;
+    padding-bottom: 140px;
+    padding-top: 50px;
+}
+
+a {
+    cursor: pointer; 
+    font-size: 20px;
+    padding: 4px;
+    text-decoration: none;
+    color: black;
+}
+
+.caja {
+  background-color: lightblue;
+  padding: 60px;   /* espacio interno */
+  border-radius: 3px; /* bordes redondeados */
+}
+
+li{
+    padding: 22px;
+}
+li:hover{
+    background-color: yellow;
+}
+
+.font-title-big{
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    font-style:normal;
+    font-size: 8.5em;
+    color: black;
+}
+.font-subtitle{
+    font-family: "Noto Sans Display", sans-serif;
+    font-weight: 400;
+    font-style:normal;
+    font-size: 2.5em;
+    color: black;
+}
+
+.font-subtitle-2{
+    font-family: "Noto Sans Display", sans-serif;
+    font-weight: 400;
+    font-style:normal;
+    font-size: 3em;
+    color: black;
+}
+
+.font-totext{
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 2em;
+    color: black;
+}
+
+.font-totext-2{
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1em;
+    color: black;
+}
+
+.font-totext-3{
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1em;
+    color: #F4EBE4;
+}
